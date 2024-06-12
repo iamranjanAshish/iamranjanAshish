@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**iushranjan/iushranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/iushranjan">
+  <img align="left" alt="Ayush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/ranjanayush17">
+  <img align="left" alt="Ayush's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<img align="right" alt="GIF" src="https://github.com/iushranjan/iushranjan/blob/main/master-rick.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Ayush Ranjan
+- A Machine Learning and Deep Learning Practitioner.
+- 17 Y/O 
+- Currently working on my Independent Reasearch.
+- I'm also looking for opportunities to contribute. 
