@@ -13,5 +13,5 @@
 ### I'm Ayush Ranjan
 - A Machine Learning and Deep Learning Practitioner.
 - 17 Y/O 
-- Currently working on my Independent Reasearch.
+- Currently working on my independent reasearch.
 - I'm also looking for opportunities to contribute. 
