@@ -10,8 +10,5 @@
   <img align="left" alt="Ayush's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
-<img align="right" alt="GIF" src="https://github.com/iushranjan/iushranjan/blob/main/master-rick.gif" />
-
 ### I'm Ashish
 I’m a high school student, and right now, I’m just figuring things out and exploring different avenues. Honestly, I wouldn’t call myself an expert at anything yet, but I know that when I put my mind to something, I’m bound to excel. I just haven’t started that journey quite yet.
